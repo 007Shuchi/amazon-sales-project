@@ -1,1 +1,1 @@
-# Amazon Data Analysis project using PowerBi
+# Amazon Data Analysis Project using PowerBi
